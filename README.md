@@ -4,6 +4,9 @@
 [FAB Speed-Dial With Angular 9 & Angular Material](https://medium.com/@aphlps/fab-speed-dial-with-angular-5-2-angular-material-be696fc14967)  
 [Live example](https://stackblitz.com/github/AaronBP/NgFab?file=src%2Fapp%2Fapp.component.html)
 
+## Second test
+[fab-speed-dial](https://github.com/Ecodev/fab-speed-dial)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
 ## Development server

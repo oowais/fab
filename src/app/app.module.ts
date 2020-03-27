@@ -5,6 +5,8 @@ import { AppComponent } from './app.component';
 import { FabComponent } from './fab/fab.component';
 
 import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
+import { EcoFabSpeedDialModule } from '@ecodev/fab-speed-dial';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
@@ -16,7 +18,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    MatButtonModule
+    MatButtonModule,
+    MatIconModule,
+    EcoFabSpeedDialModule
   ],
   providers: [],
   bootstrap: [AppComponent]

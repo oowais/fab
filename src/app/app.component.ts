@@ -27,4 +27,8 @@ export class AppComponent {
       }
     ]
   };
+
+  doAction(trigger) {
+    console.log(trigger);
+  }
 }
